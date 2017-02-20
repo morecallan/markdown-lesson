@@ -2,6 +2,8 @@
 
 > Markdown is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
+> Note: GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+
 # Markdown Basics
 
 ### Headers
@@ -52,3 +54,7 @@
 1. Navigate to image on github
 1. Click the "raw" icon in top right. ![Raw Icon]()
 1. Use the URL at the top of the page to reference the image. **Make sure it has the words "raw" & "master" in the link.**
+
+# Resources
+- [Mastering Markdown - Github](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
