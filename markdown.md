@@ -4,6 +4,8 @@
 
 > Note: GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
+<hr>
+
 # Markdown Basics
 
 ### Headers
@@ -34,6 +36,8 @@
 ### More Advanced Topics
 [Task lists, Syntax Highlighting,  Tables, Username Mentions, Emojis(:metal:)](https://guides.github.com/features/mastering-markdown/#)
 
+<hr>
+
 # Viewing Your Markdown
 ### Sublime
 1. Use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then Package Control: Install Package
@@ -47,6 +51,9 @@
   - <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>m</kbd>
 
 
+<hr>
+
+
 # Adding an image source via Github
 1. New branch
 1. Add image to project
@@ -55,6 +62,9 @@
 1. Click the "raw" icon in top right. ![Raw Icon]()
 1. Use the URL at the top of the page to reference the image. **Make sure it has the words "raw" & "master" in the link.**
 
+<hr>
+
 # Resources
 - [Mastering Markdown - Github](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Why Markdown](http://brettterpstra.com/2011/08/31/why-markdown-a-two-minute-explanation/)
