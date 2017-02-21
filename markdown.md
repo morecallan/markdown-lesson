@@ -9,29 +9,70 @@
 # Markdown Basics
 
 ### Headers
-<!-- ###### h6 -->
-<!-- ##### h5 -->
-<!-- #### h4 -->
-<!-- ### h3 -->
-<!-- ## h2 -->
-<!-- # h1 -->
+<!-- ###### h6
+##### h5
+#### h4
+### h3
+## h2
+# h1 -->
+
+
 
 ### Lists
   - ###### Ordered List
+
+1. Dogs
+1. Cats
+1. Frogs
+
+
   - ###### Unordered List
+
+- Banana
+- Apple
+- Celery
+
   - ###### List with sublists
 
+1. Dog
+  - Dog food
+  - Toys
+  - Friends
+1. Cat
+  - No friends
+    - Maybe one friend
+
 ### Links
-<!-- [This is how you link.](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enUS729US730&ion=1&espv=2&ie=UTF-8#q=linking+in+markdown) -->
+[This is how you link.](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enUS729US730&ion=1&espv=2&ie=UTF-8#q=linking+in+markdown)
+
+[SpaceJam](https://www.google.com)
 
 ### Images
 <!-- ![Zoe Image](./lolzoe.jpg) -->
+![Zoe Thinks She's Cool](./lolzoe.jpg)
 
 ### Code
+`var friend = "x";`
+
+```
+var friend = "x";
+var friend = "x";
+var friend = "x";
+
+for (var i = 0; i < zoe.cool; i++) {
+  //something
+}
+```
 
 ### Comments
+<!-- this is a comment -->
 
 ### Bold and Italics
+*this is italics*
+
+**this is bold**
+
+_this is underscore_
 
 ### More Advanced Topics
 [Task lists, Syntax Highlighting,  Tables, Username Mentions, Emojis(:metal:)](https://guides.github.com/features/mastering-markdown/#)
