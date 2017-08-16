@@ -1,15 +1,18 @@
 # What is Markdown?
 
-> Markdown is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+> Markdown is a lightweight markup language with plain text syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 > Note: GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
 <hr>
 
+hello
+
 # Markdown Basics
 
 ### Headers
 
+# Now this is an h1 tag
 
 
 ### Lists
@@ -27,6 +30,10 @@
 
 
   - ###### Checklists
+
+
+- [x] This item
+- [ ] This other item
 
 
 ### Links
